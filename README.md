@@ -19,8 +19,7 @@
 ### git status
 > Información actual de la rama
 
-### git add \<archivo\>
-### git add . (sube todos los archivos que se tenga)
+### git add .
 > Añadir cambios en el directorio de trabajo al area de preparación
 
 ### git commit -m "mensaje de confirmación"
