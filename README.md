@@ -1,7 +1,7 @@
 # Comandos introductorios
 *SesionPractica: linea de comandos*
 ***
-## git clone \< https://link-con-nombre-del-repositorio \>
+## git clone \< Link-del-repositorio \>
 > Descargar el código fuente existente desde un repositorio remoto a tu computadora: 
 
 ## git branch \<nombre-de-la-rama\>
