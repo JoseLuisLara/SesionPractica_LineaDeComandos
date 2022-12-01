@@ -25,7 +25,7 @@
 ### git commit -m "mensaje de confirmación"
 > Registrar los cambios en el repositorio local
 
-### git push \<nombre-remoto\> \<nombre-de-tu-rama\> (cuando la rama ya existe en ambos repositorios)
+### git push \<nombre-remoto\> \<nombre-de-tu-rama\>
 > Enviar los cambios realizados del repositorio local a uno remoto
 
 ### git pull \<nombre-remoto\>
